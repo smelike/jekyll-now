@@ -15,4 +15,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[smelikecat@163.com](mailto:smelikecat@163.com)
+[jaemwrite@gmail.com](mailto:jaemwrite@gmail.com)
