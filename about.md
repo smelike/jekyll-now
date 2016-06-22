@@ -2,9 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 Some information about you!
+
+My Old Blog: [shuman](http://cnblogs.com/shuman "To the groom, to the bride")
 
 ### More Information
 
