@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-<h1>{{post.title}}</h1>
 
 ## A New Post
 
